@@ -1,0 +1,14 @@
+layout_spectrum: 0.483871
+typography_spectrum: 0.5681003
+color:
+  saturation: 0.6585944
+  lightness: 0.9603105
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#141618'
+    - '#F34238'
+    - '#0130A3'
+    - '#64655C'
+  rhythmicContrast: 0.9925309
+name: DownhillRookies
