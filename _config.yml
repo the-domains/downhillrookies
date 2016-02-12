@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.5734767
 color:
   saturation: 0.3835126
   brandStrength: 1
@@ -21,6 +22,5 @@ color:
     - '#0130A3'
     - '#64655C'
   rhythmicContrast: 0.4874552
-typography_spectrum: 0.5734767
-layout_spectrum: 0.562724
+layout_spectrum: 1
 name: DownhillRookies
