@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5734767
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.7293907
-  brandStrength: 0.3781362
-  lightness: 0.7419355
+  saturation: 0.6039426
+  brandStrength: 0
+  lightness: 0.8602151
   brandColors:
     - '#FFFFFF'
     - '#141618'
     - '#F34238'
     - '#0130A3'
     - '#64655C'
-  rhythmicContrast: 0.5645161
-layout_spectrum: 1
+  rhythmicContrast: 1
+typography_spectrum: 0.8870968
+layout_spectrum: 0.9946237
 name: DownhillRookies
