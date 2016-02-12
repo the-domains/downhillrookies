@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5734767
 color:
-  saturation: 0.2831541
+  saturation: 0.5663083
   brandStrength: 1
-  lightness: 0.7240143
+  lightness: 0.9623656
   brandColors:
     - '#FFFFFF'
     - '#141618'
     - '#F34238'
     - '#0130A3'
     - '#64655C'
-  rhythmicContrast: 0.8100358
+  rhythmicContrast: 0.953405
+typography_spectrum: 0.5734767
 layout_spectrum: 0.4928315
 name: DownhillRookies
