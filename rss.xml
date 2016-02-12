@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[DownhillRookies]]></title>
         <description><![CDATA[DownhillRookies]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/downhillrookies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 09:27:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 09:51:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/downhillrookies/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mud-Freeride]]></title>
-            <description><![CDATA[<article><h1>Mud-Freeride</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4688e5abc427cd10d3120d1fa08fca6ea979dffd.png"></article>]]></description>
-            <link>undefinedmud-freeride/index.html</link>
+            <description><![CDATA[<article><h1>Mud-Freeride</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6730621aac10a10c64c38669fcbfe7a43e491e0e.png"></article>]]></description>
+            <link>https://thegrid.ai/downhillrookies/mud-freeride/index.html</link>
             <guid isPermaLink="false">9c808e25-8264-4055-8060-b360d48fc67a</guid>
             <pubDate>Fri, 12 Feb 2016 09:27:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Specialized Turbo FLR - E-Bike]]></title>
+            <description><![CDATA[<article><h1>Specialized Turbo FLR - E-Bike</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c34305c2f1fdc6520f56a141975edacfd313f52.png"></article>]]></description>
+            <link>https://thegrid.ai/downhillrookies/specialized-turbo-flr-e-bike/index.html</link>
+            <guid isPermaLink="false">e5163153-8192-43f7-803d-68d610312dbc</guid>
+            <pubDate>Fri, 12 Feb 2016 09:50:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
