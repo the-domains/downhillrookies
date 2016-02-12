@@ -4,14 +4,28 @@
         <description><![CDATA[DownhillRookies]]></description>
         <link>https://thegrid.ai/downhillrookies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 19:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 19:19:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/downhillrookies/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flying High - Lenzerheide Downhill - Specialized Demo 8]]></title>
+            <description><![CDATA[<article><h1>Flying High - Lenzerheide Downhill - Specialized Demo 8</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7ba14a9a2a806d2c0774281acabcd85ca92608f.png"></article>]]></description>
+            <link>https://thegrid.ai/downhillrookies/flying-high-lenzerheide-downhill-specialized-demo-8/index.html</link>
+            <guid isPermaLink="false">69bd589b-1768-415a-b97e-ef7db09913bd</guid>
+            <pubDate>Fri, 12 Feb 2016 19:18:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mud-Freeride]]></title>
             <description><![CDATA[<article><h1>Mud-Freeride</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6730621aac10a10c64c38669fcbfe7a43e491e0e.png"></article>]]></description>
             <link>https://thegrid.ai/downhillrookies/mud-freeride/index.html</link>
             <guid isPermaLink="false">9c808e25-8264-4055-8060-b360d48fc67a</guid>
             <pubDate>Fri, 12 Feb 2016 09:27:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nitro Circus Ryan Williams and DownhillRookie]]></title>
+            <description><![CDATA[<article><h1>Nitro Circus Ryan Williams and DownhillRookie</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2b8a8672e9fb4f07f253efe5f97ddbcf8fae18a.png"></article>]]></description>
+            <link>https://thegrid.ai/downhillrookies/nitro-circus-ryan-williams-and-downhillrookie/index.html</link>
+            <guid isPermaLink="false">16cbf21d-e436-4a03-aae8-c1a081e2445d</guid>
+            <pubDate>Fri, 12 Feb 2016 19:19:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Downhill - more Mud please...]]></title>
@@ -60,13 +74,6 @@
             <description><![CDATA[<article><h1>Öhlins on a Demo 8 - Mud</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3736b52068f2bd0529b225686f1f8eb09f5b0279.png"></article>]]></description>
             <link>https://thegrid.ai/downhillrookies/ohlins-on-a-demo-8-mud/index.html</link>
             <guid isPermaLink="false">3b434ef7-e1ac-4c90-a362-b0fa10ec6be9</guid>
-            <pubDate>Fri, 12 Feb 2016 09:50:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Specialized Turbo FLR - E-Bike]]></title>
-            <description><![CDATA[<article><h1>Specialized Turbo FLR - E-Bike</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c34305c2f1fdc6520f56a141975edacfd313f52.png"></article>]]></description>
-            <link>https://thegrid.ai/downhillrookies/specialized-turbo-flr-e-bike/index.html</link>
-            <guid isPermaLink="false">e5163153-8192-43f7-803d-68d610312dbc</guid>
             <pubDate>Fri, 12 Feb 2016 09:50:55 GMT</pubDate>
         </item>
     </channel>
